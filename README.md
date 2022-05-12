@@ -1,0 +1,2 @@
+# eduatom
+The website was developed to purchase the course which was mobile friendly where the wireframes, design process was made in Figma thoroughly with the development of the website along with the accessibility of the website so that it can be easier for the user to use the website keeping in mind the dark mood, feedback form, text size accessibility and at last the usability testing was also done where the visual studio code was used to make the development with HTML, bootstrap and JS , Figma was used to make the design and use of balsamiq for wireframes
